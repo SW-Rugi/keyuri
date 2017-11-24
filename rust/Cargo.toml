@@ -1,0 +1,13 @@
+[package]
+name        = "keyuri"
+description = "A URI-based format for encoding cryptographic keys"
+version     = "0.0.0"
+license     = "MIT"
+authors     = ["Tony Arcieri <bascule@gmail.com>"]
+homepage    = "https://miscreant.io"
+repository  = "https://github.com/miscreant/keyuri"
+readme      = "README.md"
+categories  = ["cryptography", "encoding"]
+keywords    = ["cryptography", "security"]
+
+[dependencies]

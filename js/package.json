@@ -1,0 +1,26 @@
+{
+  "name": "keyuri",
+  "version": "0.0.0",
+  "description": "A URI-based format for encoding cryptographic keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miscreant/keyuri.git"
+  },
+  "keywords": [
+    "cryptography",
+    "security"
+  ],
+  "author": "Tony Arcieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miscreant/keyuri/issues"
+  },
+  "homepage": "https://github.com/miscreant/keyuri#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
